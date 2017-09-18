@@ -48,3 +48,5 @@ Challenges of being a product owner:
 3. Being willing to make hard choices during the sprint planning meeting.
 
 4. Balancing the interests of competing stakeholders.
+
+### Release:
