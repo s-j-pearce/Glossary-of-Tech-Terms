@@ -15,3 +15,9 @@ _1. "What have I done since the last Scrum meeting? (i.e. yesterday)"_
 _2. "What will I do before the next Scrum meeting? (i.e. today)"_
 
 _3. "What prevents me from performing my work as efficiently as possible?"_
+
+The ScrumMaster will make sure that all members have sidebar meetings for any discussions that go too far outside of these constraints.
+
+The Scrum literature recommends that these meetings take place first thing in the morning as soon as all team members are present.
+
+### Impediments:
