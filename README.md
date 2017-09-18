@@ -41,13 +41,13 @@ This person must be available to the team at any time, but especially during the
 
 Challenges of being a product owner:
 
-1. Resisting the temptation to "manage" the team. The team may not self-organize in the way you would expect it to. This is especially challenging if some team members request your intervention with issues the team should sort out for itself.
+- Resisting the temptation to "manage" the team. The team may not self-organize in the way you would expect it to. This is especially challenging if some team members request your intervention with issues the team should sort out for itself.
 
-2. Resisting the temptation to add more important work after a Sprint is already in progress.
+- Resisting the temptation to add more important work after a Sprint is already in progress.
 
-3. Being willing to make hard choices during the sprint planning meeting.
+- Being willing to make hard choices during the sprint planning meeting.
 
-4. Balancing the interests of competing stakeholders.
+- Balancing the interests of competing stakeholders.
 
 ### Release Burnout Chart:
 In Scrum, the release burndown chart is a "big picture" view of a release's progress. It shows how much work was left to do at the beginning of each sprint comprising a single release. The scope of this chart is a single release; however, a product burndown chart spans all releases.
