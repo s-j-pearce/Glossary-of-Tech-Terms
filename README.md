@@ -1,1 +1,1 @@
-# Glossary-of-Terms
+# Glossary-of-Tech-Terms
