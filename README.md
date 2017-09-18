@@ -10,11 +10,11 @@ _The work remaining should fluctuate and eventually decrease in amount._
 ### Daily Scrum Meeting:
 A daily scrum meeting is a fifteen-minute meeting where each team member will answer three simple questions:
 
-_1. "What have I done since the last Scrum meeting? (i.e. yesterday)"_
+1. "What have I done since the last Scrum meeting? (i.e. yesterday)"
 
-_2. "What will I do before the next Scrum meeting? (i.e. today)"_
+2. "What will I do before the next Scrum meeting? (i.e. today)"
 
-_3. "What prevents me from performing my work as efficiently as possible?"_
+3. "What prevents me from performing my work as efficiently as possible?"
 
 The ScrumMaster will make sure that all members have sidebar meetings for any discussions that go too far outside of these constraints.
 
