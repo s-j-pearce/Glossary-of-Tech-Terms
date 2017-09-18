@@ -68,3 +68,24 @@ The ScrumMaster is a facilitator for the team and product owner. Rather than man
 - Improve the productivity of the development team in any way possible.
 - Improve the engineering practices and tools so that each increment of functionality is potentially shippable.
 - Keep information about the team's progress up to date and visible to all parties.
+
+### Sprint:
+An iteration of work during which an increment of product functionality is implemented. By the book, an iteration lasts 30 days. This is longer than in other agile methods to take into account the fact that a functional increment of product must be produced each sprint.
+
+The sprint starts with a one-day sprint planning meeting. Many daily Scrum meetings occur during the sprint (one per day). At the end of the sprint we have a sprint review meeting, followed by a sprint retrospective meeting.
+
+During the sprint, the team must not be interrupted with additional requests. Guaranteeing the team won't be interrupted allows it to make real commitments it can be expected to keep.
+
+### Team:
+A team (or "Scrum team") is optimally comprised of seven plus or minus two people.
+
+For software development projects, the team members are usually a mix of software engineers, architects, programmers, analysts, QA experts, testers, UI designers, etc. This is often called "cross-functional project teams". Agile practices also encourage cross-functional team members.
+
+During a sprint, the team self-organizes to meet the sprint goals. The team has autonomy to choose how to best meet the goals, and is held responsible for them. The ScrumMaster acts as a guardian to ensure that the team is insulated from the product owner.
+
+### Velocity:
+In Scrum, velocity is how much product backlog effort a team can handle in one sprint. This can be estimated by viewing previous sprints, assuming the team composition and sprint duration are kept constant. It can also be established on a sprint-by-sprint basis, using commitment-based planning.
+
+Once established, velocity can be used to plan projects and forecast release and product completion dates.
+
+How can velocity computations be meaningful when backlog item estimates are intentionally rough? The law of large numbers tends to average out the roughness of the estimates.
