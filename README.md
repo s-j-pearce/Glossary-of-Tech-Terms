@@ -58,3 +58,13 @@ There are three essential roles in any Scrum project:
 1. Product Owner
 2. ScrumMaster
 3. Team
+
+### ScrumMaster Role:
+The ScrumMaster is a facilitator for the team and product owner. Rather than manage the team, the ScrumMaster works to assist both the team and product owner in the following ways:
+
+- Remove the barriers between the development and the product owner so that the product owner directly drives development.
+- Teach the product owner how to maximize return on investment (ROI), and meet his/her objectives through Scrum.
+- Improve the lives of the development team by facilitating creativity and empowerment.
+- Improve the productivity of the development team in any way possible.
+- Improve the engineering practices and tools so that each increment of functionality is potentially shippable.
+- Keep information about the team's progress up to date and visible to all parties.
