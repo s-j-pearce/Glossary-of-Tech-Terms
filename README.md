@@ -21,3 +21,10 @@ The ScrumMaster will make sure that all members have sidebar meetings for any di
 The Scrum literature recommends that these meetings take place first thing in the morning as soon as all team members are present.
 
 ### Impediments:
+Anything that prevents a team member from performing work as efficiently as possible is an impediment.
+
+Each team member has an opportunity to announce impediments during the daily Scrum meeting. 
+
+The ScrumMaster is charged with ensuring impediments get resolved. 
+
+ScrumMasters often arrange sidebar meetings when impediments cannot be resolved on the spot in the daily Scrum meeting.
