@@ -49,4 +49,12 @@ Challenges of being a product owner:
 
 4. Balancing the interests of competing stakeholders.
 
-### Release:
+### Release Burnout Chart:
+In Scrum, the release burndown chart is a "big picture" view of a release's progress. It shows how much work was left to do at the beginning of each sprint comprising a single release. The scope of this chart is a single release; however, a product burndown chart spans all releases.
+
+### Scrum Roles:
+There are three essential roles in any Scrum project:
+
+1. Product Owner
+2. ScrumMaster
+3. Team
