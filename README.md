@@ -96,3 +96,5 @@ An algorithm is a list of rules to follow in order to solve a problem. Algorithm
 Relating to an established or official way of doing something. 
 ### Pseudocode
 A detailed yet readable description of what a computer program or algorithm must do. Pseudocode is an informal high-level description of the operating principle of a computer program or other algorithm.
+### Debugging
+Debugging is the process of finding and resolving defects or problems within the program that prevent correct operation of computer software or a system.
