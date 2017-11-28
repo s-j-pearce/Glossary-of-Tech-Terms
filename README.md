@@ -137,3 +137,9 @@ Programming cross-cutting concerns applied transparently.
 Programming by manipulating the program elements themselves.
 ### Array: 
 Programming with powerful array operators that usually make loops unnecessary.
+## Programming steps:
+1	Clarify/Define the Problem
+2	Design the Program
+3	Code the Program
+4	Test the Program
+5	Document and Maintain
