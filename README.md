@@ -98,3 +98,11 @@ Relating to an established or official way of doing something.
 A detailed yet readable description of what a computer program or algorithm must do. Pseudocode is an informal high-level description of the operating principle of a computer program or other algorithm.
 ### Debugging
 Debugging is the process of finding and resolving defects or problems within the program that prevent correct operation of computer software or a system.
+### Coding Standards
+Guideline for specific languages, e.g. Indentations, variable names, comments
+### API
+In computer programming, an application programming interface is a set of subroutine definitions, protocols, and tools for building application software.
+### Programming paradigm
+Programming paradigms are a way to classify programming languages based on their features. Languages can be classified into multiple paradigms.
+### Procedural programming paradigm
+Procedural programming is a programming paradigm, derived from structured programming, based upon the concept of the procedure call.
