@@ -89,3 +89,6 @@ In Scrum, velocity is how much product backlog effort a team can handle in one s
 Once established, velocity can be used to plan projects and forecast release and product completion dates.
 
 How can velocity computations be meaningful when backlog item estimates are intentionally rough? The law of large numbers tends to average out the roughness of the estimates.
+## Other Terms:
+### Algorithm
+An algorithm is a list of rules to follow in order to solve a problem. Algorithms can perform calculations, data processing and automated reasoning tasks
