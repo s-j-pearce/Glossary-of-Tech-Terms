@@ -91,4 +91,8 @@ Once established, velocity can be used to plan projects and forecast release and
 How can velocity computations be meaningful when backlog item estimates are intentionally rough? The law of large numbers tends to average out the roughness of the estimates.
 ## Other Terms:
 ### Algorithm
-An algorithm is a list of rules to follow in order to solve a problem. Algorithms can perform calculations, data processing and automated reasoning tasks
+An algorithm is a list of rules to follow in order to solve a problem. Algorithms can perform calculations, data processing and automated reasoning tasks.
+### Procedural
+Relating to an established or official way of doing something. 
+### Pseudocode
+A detailed yet readable description of what a computer program or algorithm must do. Pseudocode is an informal high-level description of the operating principle of a computer program or other algorithm.
