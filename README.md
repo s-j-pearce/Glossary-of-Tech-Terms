@@ -143,3 +143,7 @@ Programming with powerful array operators that usually make loops unnecessary.
 3.	Code the Program
 4.	Test the Program
 5.	Document and Maintain
+### Use Case:
+In software and systems engineering, a use case is a list of actions or event steps typically defining the interactions between a role and a system to achieve a goal. The actor can be a human or other external system.
+### Class Diagram:
+In software engineering, a class diagram in the Unified Modeling Language (UML) is a type of static structure diagram that describes the structure of a system by showing the system's classes, their attributes, operations (or methods), and the relationships among objects.
