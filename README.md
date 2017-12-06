@@ -91,9 +91,7 @@ Once established, velocity can be used to plan projects and forecast release and
 How can velocity computations be meaningful when backlog item estimates are intentionally rough? The law of large numbers tends to average out the roughness of the estimates.
 ## Other Terms:
 ### Algorithm
-An algorithm is a list of rules to follow in order to solve a problem. Algorithms can perform calculations, data processing and automated reasoning tasks.
-### Procedural
-Relating to an established or official way of doing something. 
+An algorithm is a list of rules to follow in order to solve a problem. Algorithms can perform calculations, data processing and automated reasoning tasks. They need to have their steps in the right order otherwise it would be like reading instructions in the incorrect order. An example of an algorithm is a Flow chart.
 ### Pseudocode
 A detailed yet readable description of what a computer program or algorithm must do. Pseudocode is an informal high-level description of the operating principle of a computer program or other algorithm.
 ### Debugging
@@ -104,39 +102,14 @@ Guideline for specific languages, e.g. Indentations, variable names, comments
 In computer programming, an application programming interface is a set of subroutine definitions, protocols, and tools for building application software.
 ### Programming paradigm
 Programming paradigms are a way to classify programming languages based on their features. Languages can be classified into multiple paradigms.
-### Procedural programming paradigm
-Procedural programming is a programming paradigm, derived from structured programming, based upon the concept of the procedure call.
-## Some Common Paradigms:
-### Imperative: 
-Programming with an explicit sequence of commands that update state.
-### Declarative: 
-Programming by specifying the result you want, not how to get it.
-### Structured: 
-Programming with clean, goto-free, nested control structures.
-### Procedural: 
-Imperative programming with procedure calls.
-### Functional (Applicative): 
-Programming with function calls that avoid any global state.
-### Function-Level (Combinator): 
-Programming with no variables at all.
-### Object-Oriented: 
-Programming by defining objects that send messages to each other. Objects have their own internal (encapsulated) state and public interfaces. Object orientation can be:
-* Class-based: Objects get state and behavior based on membership in a class.
-* Prototype-based: Objects get behavior from a prototype object.
-### Event-Driven: 
-Programming with emitters and listeners of asynchronous actions.
-### Flow-Driven: 
-Programming processes communicating with each other over predefined channels.
-### Logic (Rule-based): 
-Programming by specifying a set of facts and rules. An engine infers the answers to questions.
-### Constraint: 
-Programming by specifying a set of constraints. An engine finds the values that meet the constraints.
-### Aspect-Oriented: 
-Programming cross-cutting concerns applied transparently.
-### Reflective: 
-Programming by manipulating the program elements themselves.
-### Array: 
-Programming with powerful array operators that usually make loops unnecessary.
+### Procedural programming paradigm:
+Procedural programming is structured into procedures. A procedure is a sequence of commands to be executed. Any procedure can be called from any point within the general program, including other procedures or even itself. 
+### Object Orientated programming paradigm:
+This paradigm models problems in terms of entities called objects that have attributes and behaviours. these interact with other entities using message passing(calling methods on other entetites). These 'objects' may contain data in the form of fields, these are often known as attributes as well as code. This paradigm features objects that can access and modify data fields of the object that they are associated with.
+### Event Driven programming Paradigm: 
+Event-driven programming is a programming paradigm in which the flow of program execution is determined by events. These 'events' could consist of a user action such as a click or even a key being pressed. An event driven program is designed to detect events as they occur and then deal with them. 
+### Relationship between paradigms:
+All three of these paradigms are trying to do the same thing which is to help impliment some form of solution to the problem. The difference between them is how they solve the problem. All three contain functions however they all have different ways of them being implimented. Procedural calls the functions, Event driven ties the function to an 'event' and Object orientated ties the function to an object through class and other methods.
 ## Programming steps:
 ### 1.	Clarify/Define the Language and IDE:
 You will want to start by selecting a programming language to use, this is the language that you will write your project in. each language is different so it is important you select the right one for what you need. You will then want to chose an IDE to use, an IDE is a program or area where you will write your code. Some IDE's will have a debugging feature and possibly a preview of the code so that you can get a live view of what you're making.
