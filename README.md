@@ -137,16 +137,16 @@ Programming cross-cutting concerns applied transparently.
 Programming by manipulating the program elements themselves.
 ### Array: 
 Programming with powerful array operators that usually make loops unnecessary.
-### Programming steps:
-## 1.	Clarify/Define the Language and IDE:
+## Programming steps:
+### 1.	Clarify/Define the Language and IDE:
 You will want to start by selecting a programming language to use, this is the language that you will write your project in. each language is different so it is important you select the right one for what you need. You will then want to chose an IDE to use, an IDE is a program or area where you will write your code. Some IDE's will have a debugging feature and possibly a preview of the code so that you can get a live view of what you're making.
-## 2.	Design the Program:
+### 2.	Design the Program:
 Within the design process you will need to create certain design documentation to help you with the project. The first thing that you will need to start with will be a flow chart, this will help you to make a step by step guide to how your code works. The second will be storyboards, this will help you turn your ideas into actual designs. You can then use your flow chart to help you map your storyboard, it helps by showing you which steps will go one after the other.
-## 3.	Code the Program:
+### 3.	Code the Program:
 In this stage, you will be using the IDE that you selected earlier and the language you chose to start your code. You will make sure at this stage that everything you plan to do is right for the clients needs. You will use the flow chart from your design documentation to help make sure that you are following the correct steps for your code.
-## 4.	Test the Program:
+### 4.	Test the Program:
 Throughout the coding process you will need to run regualr tests to make sure that the code you're typing is correct or that it works, if you have a good IDE then it will usually advise you if there are mistakes or problems with your code, however if this is not the case then you will need to find alternate ways to troubleshoot the code. This can be done by running the code as intended e.g. opening it in a browser or even in a third party software/program to see if the correct features load.
-## 5.	Document and Maintain:
+### 5.	Document and Maintain:
 Throughout the process of creating your working program for a client you should be documenting everything so that if they ask for evidence or you need to go back and see where you went wrong you will be able too. Documentation also helps to provide evidence to the client to show how hard or how long you spent working on the project.
 ### Use Case:
 In software and systems engineering, a use case is a list of actions or event steps typically defining the interactions between a role and a system to achieve a goal. The actor can be a human or other external system.
