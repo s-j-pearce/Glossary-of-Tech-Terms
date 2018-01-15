@@ -135,3 +135,10 @@ Types of research methods can be divided into two quantitative and qualitative c
 Quantitative research “describes, infers, and resolves problems using numbers. Emphasis is placed on the collection of numerical data, the summary of those data and the drawing of inferences from the data”[Herbst, F. & Coldwell, D. (2004) Business Research, Juta and Co Ltd, p.15].
 
 Qualitative research, on the other hand, is based on words, feelings, emotions, sounds and other non-numerical and unquantifiable elements. It has been noted that “information is considered qualitative in nature if it cannot be analysed by means of mathematical techniques. This characteristic may also mean that an incident does not take place often enough to allow reliable data to be collected”[Herbst, F. & Coldwell, D. (2004) Business Research, Juta and Co Ltd, p.13]
+
+There is also another form of research... Observation. Although it does not give you the same detailed results as quantative and qualative, it can offer a closer understanding than the other two, however all have their pro's and con's.
+
+Which is best for accuracy?
+In regards to which research method is best for accuracy then it is all down to personal opinion. I personally feel as though the qualitative research is the best because it gets a deeper understanding from an individual that may not have a complete understanding of what they are being used to give an answer about. 
+
+Which is best for reliability?
