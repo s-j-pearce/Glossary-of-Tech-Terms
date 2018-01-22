@@ -138,7 +138,5 @@ Qualitative research, on the other hand, is based on words, feelings, emotions, 
 
 There is also another form of research... Observation. Although it does not give you the same detailed results as quantative and qualative, it can offer a closer understanding than the other two, however all have their pro's and con's.
 
-Which is best for accuracy?
-In regards to which research method is best for accuracy then it is all down to personal opinion. I personally feel as though the qualitative research is the best because it gets a deeper understanding from an individual that may not have a complete understanding of what they are being used to give an answer about. 
-
-Which is best for reliability?
+Which is best for accuracy and reliability?
+In regards to which research method is best for accuracy then it is all down to personal opinion. I personally feel as though the qualitative research is the best because it gets a deeper understanding from an individual that may not have a complete understanding of what they are being used to give an answer about. Both methods have different benefits which can be used in different ways, if its numbers that you're after for your research then quantatative is the best, however if you're after a better understanding and detailed look into someones thought process then qualatative is the best.
