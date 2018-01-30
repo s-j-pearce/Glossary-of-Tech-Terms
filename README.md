@@ -95,7 +95,8 @@ An algorithm is a list of rules to follow in order to solve a problem. Algorithm
 ### Pseudocode
 A detailed yet readable description of what a computer program or algorithm must do. Pseudocode is an informal high-level description of the operating principle of a computer program or other algorithm.
 ### Debugging
-Debugging is the process of finding and resolving defects or problems within the program that prevent correct operation of computer software or a system.
+Debugging is the process of finding and resolving defects or problems within the program that prevent correct operation of computer software or a system. In order to prevent incorrect operations of a system or software, debugging is used to find and resolve bugs or defects. 
+The process of debugging helps software developers and companies to prevent problems, whilst doing this process though they are making the software more secure and robust. They are doing this by ironing out any underlying problesm with the code that could potentially cause an issue whilst using application. Typically the developer will be able to locate the source of the problem through using a program or feature where they run the code and at the exact time the application stops it will let the developer know what line of code was running and therefore it gives the developer the ability to know where abous the problem(s) are.
 ### Coding Standards
 Guideline for specific languages, e.g. Indentations, variable names, comments
 ### API
