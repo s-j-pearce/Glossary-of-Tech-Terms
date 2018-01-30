@@ -94,6 +94,8 @@ How can velocity computations be meaningful when backlog item estimates are inte
 An algorithm is a list of rules to follow in order to solve a problem. Algorithms can perform calculations, data processing and automated reasoning tasks. They need to have their steps in the right order otherwise it would be like reading instructions in the incorrect order. An example of an algorithm is a Flow chart.
 #### Implementation of an algorithm:
 An algorithm is a list of rules or easier to understand, a step by step guide to what needs to happen. In order to implement an algorithm you just simply need to follow the steps or stages in which you want the application to run, for instance before starting any new code for an application you should break it down into steps of what happens, once you have outlined the steps you would then show this through a flow chart, the flow chart will then help when you start the code as it gives you a starting point as well as milestones when creating the code.
+#### Relationship between the written algorithm and the code variant.
+The relationship betweent the written algorithm and the code variant is that they both have specific steps and a set route in which they are going to acheive the same outcome. the written code is used in order for the developer to create the code variant.
 ### Pseudocode
 A detailed yet readable description of what a computer program or algorithm must do. Pseudocode is an informal high-level description of the operating principle of a computer program or other algorithm.
 ### Debugging
