@@ -151,7 +151,10 @@ In regards to which research method is best for accuracy then it is all down to 
 A technical solution is where someone comes in to select, design and implement a solution to a set requirement. For instance within software development, there are going to a lot of times where you will need people to solve an issue or problem, wether its with a line of code that does not correctly work or even just a feature that you cant correctly impliment - The answer is a technical solution.
 #### How can you compare technical solutions?
 There are a few ways in which you can compare technical solutions:
+
 **Difficulty** - This is how hard it is going to be to impliment the solution. For instance you may need to completely rewrite a huge area of code in order to fix an issue, or you might simply just need to change a simple variable. When it comes to software development the type of issues can be very minor and easy to fix up to very complicated and difficult to resolve.
+
 **Time to implement** - This is how long it is either going to take to impliment the solution or solve the whole problem. Like the point above, the time it is going to take to impliment the solution all depends on the level of seriousness and how complicated the problem is. it could range from being a simple line of code that need changing which would not take long time in comparison to a a huge problem which may require a lot more than just a line or two of code being changed, this could mean it might take a long time to solve the problem.
+
 **Skill needed** - Depending on the problem itself all depends on who you might need in order to solve the problem. It might be a case of changing a simple variable which may be able to be solved by someone already writting the software, however it could possibly be a very large problem which may require an external source who is training specifically in solving a specific problem or issue. It all depends on the problem tho on the skill that is needed to solve it.
 Of course there are other ways however these are the main ones that we are going to look at.
