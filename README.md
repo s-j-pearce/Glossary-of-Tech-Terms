@@ -116,17 +116,21 @@ This paradigm models problems in terms of entities called objects that have attr
 Event-driven programming is a programming paradigm in which the flow of program execution is determined by events. These 'events' could consist of a user action such as a click or even a key being pressed. An event driven program is designed to detect events as they occur and then deal with them. 
 ### Relationship between paradigms:
 All three of these paradigms are trying to do the same thing which is to help impliment some form of solution to the problem. The difference between them is how they solve the problem. All three contain functions however they all have different ways of them being implimented. Procedural calls the functions, Event driven ties the function to an 'event' and Object orientated ties the function to an object through class and other methods.
-## Programming steps:
-### 1.	Clarify/Define the Language and IDE:
+## Programming steps/building an application:
+### 1. Metting the client:
+The very first thing that you will do will be meet with the client that has hired you to undertake the task. From the initial meeting they will pitch their idea or proposal to you and you will take notes whilst also throwing ideas and questions their way to gain a better understanding. This initial process allows the client and the team to all get a unified understanding of what they want the final product to look like.
+### 2. Clarify/Define the Language and IDE:
 You will want to start by selecting a programming language to use, this is the language that you will write your project in. each language is different so it is important you select the right one for what you need. You will then want to chose an IDE to use, an IDE is a program or area where you will write your code. Some IDE's will have a debugging feature and possibly a preview of the code so that you can get a live view of what you're making.
-### 2.	Design the Program:
+### 3. Design the Program:
 Within the design process you will need to create certain design documentation to help you with the project. The first thing that you will need to start with will be a flow chart, this will help you to make a step by step guide to how your code works. The second will be storyboards, this will help you turn your ideas into actual designs. You can then use your flow chart to help you map your storyboard, it helps by showing you which steps will go one after the other.
-### 3.	Code the Program:
+### 4. Code the Program:
 In this stage, you will be using the IDE that you selected earlier and the language you chose to start your code. You will make sure at this stage that everything you plan to do is right for the clients needs. You will use the flow chart from your design documentation to help make sure that you are following the correct steps for your code.
-### 4.	Test the Program:
+### 5. Test the Program:
 Throughout the coding process you will need to run regualr tests to make sure that the code you're typing is correct or that it works, if you have a good IDE then it will usually advise you if there are mistakes or problems with your code, however if this is not the case then you will need to find alternate ways to troubleshoot the code. This can be done by running the code as intended e.g. opening it in a browser or even in a third party software/program to see if the correct features load.
-### 5.	Document and Maintain:
+### 6. Document and Maintain:
 Throughout the process of creating your working program for a client you should be documenting everything so that if they ask for evidence or you need to go back and see where you went wrong you will be able too. Documentation also helps to provide evidence to the client to show how hard or how long you spent working on the project.
+### 7. Shipping/Hand over:
+Once you have finished building the project and you have tested it and it works, it is time to hand it over to the client and make sure that they are happy with the final product. once they are happy then business is done.
 ### Use Case:
 In software and systems engineering, a use case is a list of actions or event steps typically defining the interactions between a role and a system to achieve a goal. The actor can be a human or other external system.
 ### Class Diagram:
