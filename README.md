@@ -103,6 +103,18 @@ Debugging is the process of finding and resolving defects or problems within the
 
 The process of debugging helps software developers and companies to prevent problems, whilst doing this process though they are making the software more secure and robust. They are doing this by ironing out any underlying problesm with the code that could potentially cause an issue whilst using application. Typically the developer will be able to locate the source of the problem through using a program or feature where they run the code and at the exact time the application stops it will let the developer know what line of code was running and therefore it gives the developer the ability to know where abous the problem(s) are. By doing this we have made the software more secure as we would find problems within the code and fixed them so that there are no future holes. We would have also made the software more robust by doing debugging, this would help as we can test to make sure the software will continue to work multiple times without failing.
 
+#### Debugging available in an IDE:
+The IDE that I am going to look at is REPL.it, I personally used this IDE to code my first 3 projects, it was very helpful to me as a beginner as it showed exactly the line of code where i made a mistake or even missed something. It did this by showing in the console to the right in red text the problem and what the problem is as well as where it is. Usually within an IDE the software or application will prompt the user when they have made a mistake or when the code does not run as intendid. 
+#### Examples of debugging tools/abilities:
+* Breakpoints.
+* Step into libraries
+* Run, Step Over/Into/Out.
+* View the call stack.
+* List name and contents of variables in local/global scope.
+* Hover over variable to show contents.
+* Inspect or edit variable contents.
+* View structure of objects.
+
 ### Coding Standards
 Guideline for specific languages, e.g. Indentations, variable names, comments
 ### API
