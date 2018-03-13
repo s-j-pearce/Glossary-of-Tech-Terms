@@ -106,12 +106,12 @@ The process of debugging helps software developers and companies to prevent prob
 #### Debugging available in an IDE:
 The IDE that I am going to look at is REPL.it, I personally used this IDE to code my first 3 projects, it was very helpful to me as a beginner as it showed exactly the line of code where i made a mistake or even missed something. It did this by showing in the console to the right in red text the problem and what the problem is as well as where it is. Usually within an IDE the software or application will prompt the user when they have made a mistake or when the code does not run as intendid. 
 #### Examples of debugging tools/abilities:
-* Breakpoints.
-* Step into libraries
-* Run, Step Over/Into/Out.
-* View the call stack.
-* List name and contents of variables in local/global scope.
-* Hover over variable to show contents.
+* Breakpoints - A breakpoint is an intentional stop or pausing place within a line of code for a program.
+* step into - go into the loop and wait for next action.
+* step over - jump over the loop without waiting again.
+* step out - if you are in the loop, you will leave it without waiting again.
+* List names and contents of variables in local/global scope.
+* Hover over variable to show contents and list names.
 * Inspect or edit variable contents.
 * View structure of objects.
 
