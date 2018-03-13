@@ -110,10 +110,10 @@ In computer programming, an application programming interface is a set of subrou
 Programming paradigms are a way to classify programming languages based on their features. Languages can be classified into multiple paradigms.
 ### Procedural:
 Procedural programming is structured into procedures. A procedure is a sequence of commands to be executed. Any procedure can be called from any point within the general program, including other procedures or even itself. 
-### Object Orientated:
-This paradigm models problems in terms of entities called objects that have attributes and behaviours. these interact with other entities using message passing(calling methods on other entetites). These 'objects' may contain data in the form of fields, these are often known as attributes as well as code. This paradigm features objects that can access and modify data fields of the object that they are associated with.
 ### Event Driven Paradigm: 
-Event-driven programming is a programming paradigm in which the flow of program execution is determined by events. These 'events' could consist of a user action such as a click or even a key being pressed. An event driven program is designed to detect events as they occur and then deal with them. 
+Event-driven programming is a programming paradigm in which the flow of program execution is determined by events. These 'events' could consist of a user action such as a click or even a key being pressed. An event driven program is designed to detect events as they occur and then deal with them.
+### Object Orientated:
+This paradigm models problems in terms of entities called objects that have attributes and behaviours. these interact with other entities using message passing(calling methods on other entetites). These 'objects' may contain data in the form of fields, these are often known as attributes as well as code. This paradigm features objects that can access and modify data fields of the object that they are associated with. An object can also be defined as an instance, this instance is the blueprint.
 ### Relationship between paradigms:
 All three of these paradigms are trying to do the same thing which is to help impliment some form of solution to the problem. The difference between them is how they solve the problem. All three contain functions however they all have different ways of them being implimented. Procedural calls the functions, Event driven ties the function to an 'event' and Object orientated ties the function to an object through class and other methods.
 ## Programming steps/building an application:
