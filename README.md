@@ -129,7 +129,7 @@ You want to try and catch the bug as it happens, this way you can see exactly wh
 You will want to analyse the snapshot and information that you have so that you can search for the cause of the bug.
 5. Fix the bug:
 You want to make sure you can fix this bug but at the same time you need to make sure that you dont create any new bugs to the program.
-####Secure and Robust
+#### Secure and Robust
 Debugging Helps to make your work more Secure and Robust, debugging can be used to help develop more secure, robust applications. First you need to understand how. It is required to first know what the robustness of a system is, which in this instance robustness relates to the ability of a computer system to cope with errors during execution. Secondly you will need to know how a program can be secure, this is how good its ability to withstand malicious attempts to gain access to the information is. For a program to be both secure and robust will mean that the system it is being used on can keep up with the work load and can cope with errors whilst at the same time make sure that any unauthorised persons cannot gain access to the information that is not intended for them.
 
 ### Coding Standards
