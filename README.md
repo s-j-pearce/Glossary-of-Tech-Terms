@@ -118,6 +118,19 @@ The IDE that I am going to look at is REPL.it, I personally used this IDE to cod
 Interactive debugging, Print / Tracing debugging, Remote debugging, Post-mortem debugging and Delta Debugging
 #### Backtracking:
 One idea when debugging is to start debugging from the point where the issue occurred. you would then work your way back through the code until you found where the code has gone wrong. In some cases you would do this all the way back to the start
+#### Debugging Process
+1. Recreate or make the bug repeat itself:
+you would carry out this step in order to make sure that the bug did not just have a one off, this process will make sure that there is a genuine error or problem with your code.
+2. Describe the bug:
+This is important so that you can get as much detail as possible.
+3. Snapshot when bug happens/appears:
+You want to try and catch the bug as it happens, this way you can see exactly what the program was doing. By doing this you can also capture all the variables so that you can use that to analyse what might be causing the bug.
+4. Analyse:
+You will want to analyse the snapshot and information that you have so that you can search for the cause of the bug.
+5. Fix the bug:
+You want to make sure you can fix this bug but at the same time you need to make sure that you dont create any new bugs to the program.
+####Secure and Robust
+Debugging Helps to make your work more Secure and Robust, debugging can be used to help develop more secure, robust applications. First you need to understand how. It is required to first know what the robustness of a system is, which in this instance robustness relates to the ability of a computer system to cope with errors during execution. Secondly you will need to know how a program can be secure, this is how good its ability to withstand malicious attempts to gain access to the information is. For a program to be both secure and robust will mean that the system it is being used on can keep up with the work load and can cope with errors whilst at the same time make sure that any unauthorised persons cannot gain access to the information that is not intended for them.
 
 ### Coding Standards
 Guideline for specific languages, e.g. Indentations, variable names, comments
