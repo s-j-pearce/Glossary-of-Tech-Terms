@@ -112,8 +112,12 @@ The IDE that I am going to look at is REPL.it, I personally used this IDE to cod
 * step out - if you are in the loop, you will leave it without waiting again.
 * List names and contents of variables in local/global scope.
 * Hover over variable to show contents and list names.
-* Inspect or edit variable contents.
-* View structure of objects.
+* Run to cursor - This command starts debugging and sets a temporary breakpoint on the current line of code.
+* Examine an exception - When your app throws an exception, the debugger will take you to the line of code with that exception.
+#### Some techniques in debugging:
+Interactive debugging, Print / Tracing debugging, Remote debugging, Post-mortem debugging and Delta Debugging
+#### Backtracking:
+One idea when debugging is to start debugging from the point where the issue occurred. you would then work your way back through the code until you found where the code has gone wrong. In some cases you would do this all the way back to the start
 
 ### Coding Standards
 Guideline for specific languages, e.g. Indentations, variable names, comments
