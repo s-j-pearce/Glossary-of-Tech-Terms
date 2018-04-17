@@ -161,6 +161,9 @@ Throughout the coding process you will need to run regualr tests to make sure th
 Throughout the process of creating your working program for a client you should be documenting everything so that if they ask for evidence or you need to go back and see where you went wrong you will be able too. Documentation also helps to provide evidence to the client to show how hard or how long you spent working on the project.
 ### 7. Shipping/Hand over:
 Once you have finished building the project and you have tested it and it works, it is time to hand it over to the client and make sure that they are happy with the final product. once they are happy then business is done.
+## Steps taken from writing code to execution:
+### 1. Writing the code:
+
 ### Use Case:
 In software and systems engineering, a use case is a list of actions or event steps typically defining the interactions between a role and a system to achieve a goal. The actor can be a human or other external system.
 ### Class Diagram:
