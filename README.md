@@ -132,6 +132,19 @@ You want to make sure you can fix this bug but at the same time you need to make
 #### Secure and Robust
 Debugging Helps to make your work more Secure and Robust, debugging can be used to help develop more secure, robust applications. First you need to understand how. It is required to first know what the robustness of a system is, which in this instance robustness relates to the ability of a computer system to cope with errors during execution. Secondly you will need to know how a program can be secure, this is how good its ability to withstand malicious attempts to gain access to the information is. For a program to be both secure and robust will mean that the system it is being used on can keep up with the work load and can cope with errors whilst at the same time make sure that any unauthorised persons cannot gain access to the information that is not intended for them.
 
+### Common features that a developer has access to in and IDE:
+An IDE is a program or interface which is designed to help people write code. The ways in which it helps users are by offering a few features that are simple but help a lot towards someone correctly writting a code. The features that i am going to be discussing are; Syntax highlighting, Bracket matching, Step over/into/under and Auto completion. All of these features are used in multiple IDE's as they all do the same job in each one.
+#### Syntax Highlighting
+
+#### Bracket Matching
+
+#### Step over/into/under
+
+#### Auto completion
+
+
+---
+
 ### Coding Standards
 Guideline for specific languages, e.g. Indentations, variable names, comments
 ### API
