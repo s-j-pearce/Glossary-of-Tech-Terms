@@ -180,10 +180,9 @@ Before any code is actually executed it needs to be compilied and written. This 
 | Step 2a - Compilation: | Step 2b - Interpretation: |
 |---|---|
 |Once the code has been written it then needs to be compilied. Compiling is simply the process of converting the programs code(source code) into another programming language which would usually be the target programming langiage that you have already chosen during the planning stage. This is usually, but not always, the process of turning high level code like a program written in C++ into low level code, like machine code.| An interpreter will read a program line by line, reading every expression, giving outputs if the program is correct. It stops or will give an error when it encounters the first mistake in any line of the written code.|
-### Step 3 - Invoke(Load into memory):
-This process is only included if the previous step(s) (Step 2a & Step 2b) are completed. Once the program itself has been converted into machine code it is now allocated memory. The operating system will handle this step as it needs to determine how much memory exactly the program needs to run efficently.
-### Step 4 - Execution:
-Now were on the final step. If all of the steps above have been completed succesfully then the computer can finally run the program. Each step and instruction has been converted into machine code that the computer can read. Each instruction itself will trigger thousands of actions on the target machine that will all come together to do what the program was originally intended for. The program will be exported as an .exe file or another executable file type.
+| Step 4 - Execution: | Step 3 - Invoke(Load into memory): |
+|Now were on the final step. If all of the steps above have been completed succesfully then the computer can finally run the program. Each step and instruction has been converted into machine code that the computer can read. Each instruction itself will trigger thousands of actions on the target machine that will all come together to do what the program was originally intended for. The program will be exported as an .exe file or another executable file type.| This process is only included if the previous step(s) (Step 2a & Step 2b) are completed. Once the program itself has been converted into machine code it is now allocated memory. The operating system will handle this step as it needs to determine how much memory exactly the program needs to run efficently.|
+
 
 ---
 
