@@ -172,6 +172,19 @@ In software engineering, a class diagram in the Unified Modeling Language (UML) 
 In Computing, an interpreter is a computer program that directly executes instructions written in a programming or scripting language. It will do this without requiring them to have been previously compilied into a machine language program. An interpreter takes less time to analyze the source code but the overall execution time is slower. A benefit of using an interpreter is that it continies translating the program until the first error is met, in which it then stops. This helps to make debugging easier as you will be able to see where the error occurred.
 ### Compiler:
 The way a compiler works is that it scan the entire program and translates it as a whole into machine code. Ready for it to run. The problem with this is that it takes large amount of time to analyze the source code but the overall execution time is comparatively faster. Some examples of languages that use a Compiler is C or C++. Another problem with a comiler is that it generates the error message only after scanning the whole program. Hence debugging is comparatively hard.
+## the process from writing code to execution:
+Once you have written the code for your program or software, there are a few steps that are taken before the code itself is actually executed.
+### Step 1 - Writing:
+Before any code is actually executed it needs to be compilied and written. This is done to a specified source code.
+### Step 2 - Compilation:
+Once the code has been written it then needs to be compilied. Compiling is simply the process of converting the programs code(source code) into another programming language which would usually be the target programming langiage that you have already chosen during the planning stage. This is usually, but not always, the process of turning high level code like a program written in C++ into low level code, like machine code.
+### Step 3 - Invoke(Load into memory):
+Once the program itself has been converted into machine code it is now allocated memory. The operating system will handle this step as it needs to determine how much memory exactly the program needs to run efficently.
+### Step 4 - Execution:
+Now were on the final step. If all of the steps above have been completed succesfully then the computer can finally run the program. Each step and instruction has been converted into machine code that the computer can read. Each instruction itself will trigger thousands of actions on the target machine that will all come together to do what the program was originally intended for.
+
+---
+
 ## Types of Research:
 Types of research methods can be divided into two quantitative and qualitative categories:
 
