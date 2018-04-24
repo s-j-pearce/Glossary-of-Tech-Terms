@@ -177,6 +177,7 @@ Once you have written the code for your program or software, there are a few ste
 
 | Step 1 - Writing: |
 |Before any code is actually executed it needs to be compilied and written. This is done to a specified source code. Usually this step or process is completed within a text editor ir an IDE.|
+
 | Step 2a - Compilation: | Step 2b - Interpretation: |
 |---|---|
 |Once the code has been written it then needs to be compilied. Compiling is simply the process of converting the programs code(source code) into another programming language which would usually be the target programming langiage that you have already chosen during the planning stage. This is usually, but not always, the process of turning high level code like a program written in C++ into low level code, like machine code.| An interpreter will read a program line by line, reading every expression, giving outputs if the program is correct. It stops or will give an error when it encounters the first mistake in any line of the written code.|
