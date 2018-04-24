@@ -175,8 +175,8 @@ The way a compiler works is that it scan the entire program and translates it as
 ## the process from writing code to execution:
 Once you have written the code for your program or software, there are a few steps that are taken before the code itself is actually executed.
 
-| Step 1 - Writing: |
-|Before any code is actually executed it needs to be compilied and written. This is done to a specified source code. Usually this step or process is completed within a text editor ir an IDE.|
+### Step 1 - Writing:
+Before any code is actually executed it needs to be compilied and written. This is done to a specified source code. Usually this step or process is completed within a text editor ir an IDE.
 
 | Step 2a - Compilation: | Step 2b - Interpretation: |
 |---|---|
